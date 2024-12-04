@@ -1,3 +1,15 @@
+**<h1>Instructions</h1>**
+**<h2>Installations</h2>**
+For running the code, you will need Python 3.7 or later. Further, the following packages must also be installed:
+* `Python` 3.7+
+* `discopy` (v0.3.5)
+* `pytket` (v0.10.1)
+* `qiskit`  (v0.25.4)
+* `pytket-qiskit`
+
+**<h2>File Modification</h2>**
+Running the notebook `mc_task_simulation.ipynb` requires making `discopy` compatible with `jax` by setting `IMPORT_JAX = True` in discopy's `config.py`. 
+
 **<h1>Quantum Natural Language Processing Optimization Research</h1>**
 **<h2>Introduction</h2>**
 <ol>
