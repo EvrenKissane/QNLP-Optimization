@@ -1,4 +1,4 @@
-**<h1>Quantum Natural Language Processing (QNLP): Solving Complex Language Problems with Quantum Computing</h1>**
+**<h1>Quantum Natural Language Processing Optimization Research</h1>**
 **<h2>Introduction</h2>**
 <ol>
   <li><b>Motivation:</b> This project explores the application of quantum natural language processing (QNLP) to the task of sentence classification. Traditional natural language processing (NLP) often faces challenges in handling the complexities of language, particularly with ambiguous grammatical structures and long-range dependencies. QNLP offers a potential advantage by leveraging the principles of quantum mechanics, such as superposition and entanglement, to represent and process linguistic information in new ways.</li>
