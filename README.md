@@ -1,7 +1,7 @@
+**<h1>Quantum Natural Language Processing Optimization Research</h1>**
 **<h2>Instructions</h2>**
 For running the code, you will need Python 3.7 or later, and you will need to make `discopy` compatible with `jax` by setting `IMPORT_JAX = True` in discopy's `config.py`. 
 
-**<h1>Quantum Natural Language Processing Optimization Research</h1>**
 **<h2>Introduction</h2>**
 <ol>
   <li><b>Motivation:</b> This project explores the application of quantum natural language processing (QNLP) to the task of sentence classification. Traditional natural language processing (NLP) often faces challenges in handling the complexities of language, particularly with ambiguous grammatical structures and long-range dependencies. QNLP offers a potential advantage by leveraging the principles of quantum mechanics, such as superposition and entanglement, to represent and process linguistic information in new ways.</li>
