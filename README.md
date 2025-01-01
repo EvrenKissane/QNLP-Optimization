@@ -54,6 +54,28 @@ For running the code, you will need Python 3.7 or later, and you will need to ma
     </ol>
   </li>
   <li><b>Performance Metrics:</b> </li>
+    <ol>
+      <li>Cost Function:</li>
+        <ol>
+          <li>Measures the negative average cross-entropy across the training dataset.</li>
+          <li>A lower cost indicates better optimization.</li>
+        </ol>
+      <li>Training Error:</li>
+        <ol>
+          <li>Calculated as the percentage of incorrect predictions in the training dataset.</li>
+          <li>A lower training error reflects better model performance during training.</li>
+        </ol>
+      <li>Development (Dev) Error:</li>
+        <ol>
+          <li>Represents the percentage of incorrect predictions on the development (validation) dataset.</li>
+          <li>Used to evaluate the model's generalization capability.</li>
+        </ol>
+      <li>Testing Error:</li>
+        <ol>
+          <li>Calculated as the percentage of incorrect predictions on the testing dataset.</li>
+          <li>Indicates the final model accuracy on unseen data.</li>
+        </ol>
+    </ol>
 </ol>
 
 **<h2>Conclusion</h2>**
