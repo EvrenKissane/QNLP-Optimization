@@ -48,10 +48,9 @@ For running the code, you will need Python 3.7 or later, and you will need to ma
   <li><b>Simulation:</b> The experiments were conducted using the AerBackend, a local quantum simulator provided by Qiskit. This choice allowed for rapid experimentation and model development before potential deployment on actual quantum hardware. While the use of a simulator facilitates faster evaluation, it's important to note that the performance on actual QPUs might vary due to noise and other quantum effects.</li>
   <li><b>Key Findings:</b>
     <ol>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Achieved a 20% increase in training accuracy and a 30% increase in testing accuracy compared to the standard SPSA algorithm across all tested ansatzes.</li>
+      <li>Demonstrated the effectiveness of proposed ansatzes (Sim14.1 and Sim15.1) and training algorithms on a binary classification task (MC dataset with 130 sentences classified as food or IT).</li>
+      <li>Validated the improved SPSA, ADAM optimizer, and genetic algorithms for parameter optimization, showing reduced error rates during training and testing phases.</li>
     </ol>
   </li>
   <li><b>Performance Metrics:</b> </li>
