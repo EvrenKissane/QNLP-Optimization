@@ -80,7 +80,7 @@ For running the code, you will need Python 3.7 or later, and you will need to ma
 
 **<h2>Conclusion</h2>**
 <ol>
-  <li><b>Summary</b>: This project demonstrated the feasibility of using QNLP for sentence classification. The QML model, based on pregroup grammar and quantum circuits, achieved a [report the accuracy achieved on our test set when we have it]. The experiments conducted on a quantum simulator indicate the model's potential for learning linguistic structures on a quantum processing unit.</li>
+  <li><b>Summary</b>: This project demonstrated the feasibility of using QNLP for sentence classification. For each ansatz the learning algorithms showed a meaningful decrease in cost for all three datasets (train, test, dev), the trends also indicate that the results are generalizable (show a lack of under or over fitting). The experiments conducted on a quantum simulator indicate the model's potential for learning linguistic structures on a quantum processing unit.</li>
   <li><b>Impact</b>: This work contributes to the evolving field of QNLP by providing an approach for encoding and processing sentence structures. It adds to the body of evidence exploring the potential of quantum computing for natural language understanding.</li>
   <li><b>Future Work</b>: Several areas for future research and improvement exist:
     <ol>
